@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Vazir";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/fonts/Vazirmatn-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Vazir";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/fonts/Vazirmatn-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Vazir";
+  font-style: normal;
+  font-weight: 900;
+  src: url("/fonts/fonts/Vazirmatn-Black.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Diodrum";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/fonts/DiodrumArabic-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Diodrum";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/fonts/DiodrumArabic-Semibold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Diodrum";
+  font-style: normal;
+  font-weight: 900;
+  src: url("/fonts/fonts/DiodrumArabic-Bold.ttf") format("ttf");
+}
